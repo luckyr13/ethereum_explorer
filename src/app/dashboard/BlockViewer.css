@@ -1,0 +1,8 @@
+.BlockViewer {
+	color: #000;
+}
+
+.BlockViewer-transactions {
+	font-size: 10px;
+	column-count: 5;
+}

@@ -1,0 +1,13 @@
+.Dashboard-body {
+	min-height: 500px;
+	color: #edf2f4;
+
+}
+
+.Dashboard-Code {
+	color: #FFF;
+}
+
+.pre-wrap {
+	  white-space: pre-wrap;
+}

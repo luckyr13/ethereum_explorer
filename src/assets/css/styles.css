@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+	padding: 0;
+}
+html {
+	height: 100%;
+}
+body {
+	min-height: 100%;
+	background-color: #434976;
+	color: #edf2f4;
+	position: relative;
+	width: 100%;
+}
+
+#root {
+	min-height: 100%;
+	position: absolute;
+	width: 100%;
+}
